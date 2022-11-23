@@ -43,9 +43,25 @@
 
 ### Xanadu
 
-  
-  
-  
+- [Simulating key properties of lithium-ion batteries with a fault-tolerant quantum computer] 2022-09-26
+Tailgating quantum circuits for high-order energy derivatives
+2022-07-22
+Quantum simulation of molecules in solution
+2021-11-26
+Differentiable quantum computational chemistry with PennyLane
+2021-11-18
+Universal quantum circuits for quantum Chemistry
+2021-06-25
+Variational quantum algorithm for molecular geometry optimization
+2021-06-25
+Quantum Algorithm for Simulating Single-Molecule Electron Transport
+2020-12-16
+Quantum Algorithm for Simulating Molecular Vibrational Excitations
+2020-06-23
+Molecular Docking with Gaussian Boson Sampling
+2019-02-01
+Franck-Condon factors by counting perfect matchings of graphs with loops
+2018-11-23
   
   
   
