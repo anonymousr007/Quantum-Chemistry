@@ -1,6 +1,6 @@
 ## Quantum Chemistry
 
-### [Google Quantum Chemistry](https://quantumai.google/research/publications) **27 Quantum Chemistry Papers**
+### [Google Quantum Chemistry](https://quantumai.google/research/publications) - **27 Quantum Chemistry Papers**
 
 - 2014
   - [Computational complexity of time-dependent density functional theory](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43349.pdf)
@@ -68,11 +68,11 @@
 - 2022  
   - [Analytical formulation of the second-order derivative of energy for orbital-optimized variational quantum eigensolver: application to polarizability - [38 Pages]](https://arxiv.org/pdf/2211.03343.pdf)
 
-### [Xanadu Quantum Chemistry](https://www.xanadu.ai/research/) **10 Quantum Chemistry Papers**
+### [Xanadu Quantum Chemistry](https://www.xanadu.ai/research/) - **10 Quantum Chemistry Papers**
 
 - 2018
   - [Franck-Condon factors by counting perfect matchings of graphs with loops - [16 Pages]](https://arxiv.org/pdf/1811.09597.pdf)
-2019
+- 2019
   - [Molecular Docking with Gaussian Boson Sampling - [15 Pages]](https://arxiv.org/pdf/1902.00462.pdf)
 - 2020
   - [Quantum Algorithm for Simulating Molecular Vibrational Excitations - [11 Pages]](https://arxiv.org/pdf/2006.13339.pdf)
@@ -85,21 +85,3 @@
 - 2022
   - [Tailgating quantum circuits for high-order energy derivatives - [10 Pages]](https://arxiv.org/pdf/2207.11274.pdf)
   - [Simulating key properties of lithium-ion batteries with a fault-tolerant quantum computer - [31 Pages]](https://arxiv.org/pdf/2204.11890.pdf)
-  
-
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
