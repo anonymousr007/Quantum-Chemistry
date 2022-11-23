@@ -1,6 +1,6 @@
 ## Quantum Chemistry
 
-### Google Quantum Chemistry
+### [Google Quantum Chemistry](https://quantumai.google/research/publications)
 
 - 2014
   - [Computational complexity of time-dependent density functional theory](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43349.pdf)
