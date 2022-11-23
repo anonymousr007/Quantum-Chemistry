@@ -43,25 +43,23 @@
 
 ### Xanadu
 
-- [Simulating key properties of lithium-ion batteries with a fault-tolerant quantum computer] 2022-09-26
-Tailgating quantum circuits for high-order energy derivatives
-2022-07-22
-Quantum simulation of molecules in solution
-2021-11-26
-Differentiable quantum computational chemistry with PennyLane
-2021-11-18
-Universal quantum circuits for quantum Chemistry
-2021-06-25
-Variational quantum algorithm for molecular geometry optimization
-2021-06-25
-Quantum Algorithm for Simulating Single-Molecule Electron Transport
-2020-12-16
-Quantum Algorithm for Simulating Molecular Vibrational Excitations
-2020-06-23
-Molecular Docking with Gaussian Boson Sampling
-2019-02-01
-Franck-Condon factors by counting perfect matchings of graphs with loops
-2018-11-23
+- 2018
+  - [Franck-Condon factors by counting perfect matchings of graphs with loops - [16 Pages]](https://arxiv.org/pdf/1811.09597.pdf) 2018-11-23
+2019
+  - [Molecular Docking with Gaussian Boson Sampling - [15 Pages]](https://arxiv.org/pdf/1902.00462.pdf) 2019-02-01
+- 2020
+  - [Quantum Algorithm for Simulating Molecular Vibrational Excitations - [11 Pages]](https://arxiv.org/pdf/2006.13339.pdf) 2020-06-23
+  - [Quantum Algorithm for Simulating Single-Molecule Electron Transport - [9 Pages]](https://arxiv.org/pdf/2012.09231.pdf) 2020-12-16
+- 2021
+  - [Variational quantum algorithm for molecular geometry optimization - [7 Pages]](https://arxiv.org/pdf/2106.13840.pdf) 2021-06-25
+  - [Universal quantum circuits for quantum Chemistry - [11 Pages]](https://arxiv.org/pdf/2106.13839.pdf) 2021-06-25
+  - [Differentiable quantum computational chemistry with PennyLane - [18 Pages]](https://arxiv.org/pdf/2111.09967.pdf) 2021-11-18
+  - [Quantum simulation of molecules in solution](https://arxiv.org/pdf/2111.13458.pdf) 2021-11-26
+- 2022
+  - [Tailgating quantum circuits for high-order energy derivatives](https://arxiv.org/pdf/2207.11274.pdf) 2022-07-22
+  - [Simulating key properties of lithium-ion batteries with a fault-tolerant quantum computer](https://arxiv.org/pdf/2204.11890.pdf) 2022-09-26
+  
+
   
   
   
