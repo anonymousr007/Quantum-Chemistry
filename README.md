@@ -1,6 +1,6 @@
 ## Quantum Chemistry
 
-### [Google Quantum Chemistry](https://quantumai.google/research/publications)
+### [Google Quantum Chemistry](https://quantumai.google/research/publications) **27 Quantum Chemistry Papers**
 
 - 2014
   - [Computational complexity of time-dependent density functional theory](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/43349.pdf)
@@ -39,7 +39,7 @@
 - 2022
   - [Exploiting fermion number in factorized decompositions of the electronic structure Hamiltonian](https://arxiv.org/pdf/2107.07238.pdf)
 
-### [QunaSys Quantum Chemistry](https://qunasys.com/en/publications)
+### [QunaSys Quantum Chemistry](https://qunasys.com/en/publications) - **21 Quantum Chemistry Papers**
 
 - 2018
   - [Generalization of the output of variational quantum eigensolver by parameter interpolation with low-depth ansatz - [9 Pages]](https://arxiv.org/pdf/1810.04482.pdf)
@@ -65,9 +65,10 @@
   - [Analytic energy gradient for state-averaged orbital-optimized variational quantum eigensolvers and its application to a photochemical reaction - [23 Pages]](https://arxiv.org/pdf/2107.12705.pdf)
   - [Non-adiabatic Quantum Wavepacket Dynamics Simulation Based on Electronic Structure Calculations using the Variational Quantum Eigensolver - [17 Pages]](https://arxiv.org/pdf/2111.04236.pdf)
   - [Quantum expectation value estimation by computational basis sampling - [21 Pages]](https://arxiv.org/pdf/2112.07416.pdf)
+- 2022  
   - [Analytical formulation of the second-order derivative of energy for orbital-optimized variational quantum eigensolver: application to polarizability - [38 Pages]](https://arxiv.org/pdf/2211.03343.pdf)
 
-### [Xanadu Quantum Chemistry](https://www.xanadu.ai/research/)
+### [Xanadu Quantum Chemistry](https://www.xanadu.ai/research/) **10 Quantum Chemistry Papers**
 
 - 2018
   - [Franck-Condon factors by counting perfect matchings of graphs with loops - [16 Pages]](https://arxiv.org/pdf/1811.09597.pdf)
