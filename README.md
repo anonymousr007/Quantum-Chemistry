@@ -71,17 +71,17 @@
 ### [Xanadu Quantum Chemistry](https://www.xanadu.ai/research/) - **10 Quantum Chemistry Papers**
 
 - 2018
-  - [Franck-Condon factors by counting perfect matchings of graphs with loops - [16 Pages]](https://arxiv.org/pdf/1811.09597.pdf)
+  - [Franck-Condon factors by counting perfect matchings of graphs with loops - [16 Pages]](https://arxiv.org/abs/1811.09597)
 - 2019
-  - [Molecular Docking with Gaussian Boson Sampling - [15 Pages]](https://arxiv.org/pdf/1902.00462.pdf)
+  - [Molecular Docking with Gaussian Boson Sampling - [15 Pages]](https://arxiv.org/abs/1902.00462)
 - 2020
-  - [Quantum Algorithm for Simulating Molecular Vibrational Excitations - [11 Pages]](https://arxiv.org/pdf/2006.13339.pdf)
-  - [Quantum Algorithm for Simulating Single-Molecule Electron Transport - [9 Pages]](https://arxiv.org/pdf/2012.09231.pdf)
+  - [Quantum Algorithm for Simulating Molecular Vibrational Excitations - [11 Pages]](https://arxiv.org/abs/2006.13339)
+  - [Quantum Algorithm for Simulating Single-Molecule Electron Transport - [9 Pages]](https://arxiv.org/abs/2012.09231)
 - 2021
-  - [Variational quantum algorithm for molecular geometry optimization - [7 Pages]](https://arxiv.org/pdf/2106.13840.pdf)
-  - [Universal quantum circuits for quantum Chemistry - [11 Pages]](https://arxiv.org/pdf/2106.13839.pdf)
-  - [Differentiable quantum computational chemistry with PennyLane - [18 Pages]](https://arxiv.org/pdf/2111.09967.pdf)
-  - [Quantum simulation of molecules in solution - [40 Pages]](https://arxiv.org/pdf/2111.13458.pdf)
+  - [Variational quantum algorithm for molecular geometry optimization - [7 Pages]](https://arxiv.org/abs/2106.13840)
+  - [Universal quantum circuits for quantum Chemistry - [11 Pages]](https://arxiv.org/abs/2106.13839)
+  - [Differentiable quantum computational chemistry with PennyLane - [18 Pages]](https://arxiv.org/abs/2111.09967)
+  - [Quantum simulation of molecules in solution - [40 Pages]](https://arxiv.org/abs/2111.13458)
 - 2022
-  - [Tailgating quantum circuits for high-order energy derivatives - [10 Pages]](https://arxiv.org/pdf/2207.11274.pdf)
-  - [Simulating key properties of lithium-ion batteries with a fault-tolerant quantum computer - [31 Pages]](https://arxiv.org/pdf/2204.11890.pdf)
+  - [Tailgating quantum circuits for high-order energy derivatives - [10 Pages]](https://arxiv.org/abs/2207.11274)
+  - [Simulating key properties of lithium-ion batteries with a fault-tolerant quantum computer - [31 Pages]](https://arxiv.org/abs/2204.11890)
