@@ -42,31 +42,31 @@
 ### [QunaSys Quantum Chemistry](https://qunasys.com/en/publications) - **21 Quantum Chemistry Papers**
 
 - 2018
-  - [Generalization of the output of variational quantum eigensolver by parameter interpolation with low-depth ansatz - [9 Pages]](https://arxiv.org/pdf/1810.04482.pdf)
-  - [Subspace-search variational quantum eigensolver for excited states - [7 Pages]](https://arxiv.org/pdf/1810.09434.pdf)
+  - [Generalization of the output of variational quantum eigensolver by parameter interpolation with low-depth ansatz - [9 Pages]](https://arxiv.org/abs/1810.04482)
+  - [Subspace-search variational quantum eigensolver for excited states - [7 Pages]](https://arxiv.org/abs/1810.09434)
 - 2019
-  - [Theory of analytical energy derivatives for the variational quantum eigensolver - [22 Pages]](https://arxiv.org/pdf/1905.04054.pdf)
-  - [Sequential minimal optimization for quantum-classical hybrid algorithms - [11 Pages]](https://arxiv.org/pdf/1903.12166.pdf)
-  - [Subspace Variational Quantum Simulator - [10 Pages]](https://arxiv.org/pdf/1904.08566.pdf)
-  - [Orbital optimized unitary coupled cluster theory for quantum computer - [8 Pages]](https://arxiv.org/pdf/1910.11526.pdf)
+  - [Theory of analytical energy derivatives for the variational quantum eigensolver - [22 Pages]](https://arxiv.org/abs/1905.04054)
+  - [Sequential minimal optimization for quantum-classical hybrid algorithms - [11 Pages]](https://arxiv.org/abs/1903.12166)
+  - [Subspace Variational Quantum Simulator - [10 Pages]](https://arxiv.org/abs/1904.08566)
+  - [Orbital optimized unitary coupled cluster theory for quantum computer - [8 Pages]](https://arxiv.org/abs/1910.11526)
 - 2020
-  - [Calculating transition amplitudes by variational quantum deflation - [12 Pages]](https://arxiv.org/pdf/2002.11724.pdf)
-  - [Predicting excited states from ground state wavefunction by supervised quantum machine learning - [26 Pages]](https://arxiv.org/pdf/2002.12925.pdf)
-  - [Calculating nonadiabatic couplings and Berry's phase by variational quantum eigensolvers - [19 Pages]](https://arxiv.org/pdf/2003.01706.pdf)
-  - [Deep Variational Quantum Eigensolver: a divide-and-conquer method for solving a larger problem with smaller size quantum computers - [11 Pages]](https://arxiv.org/pdf/2007.10917.pdf)
-  - [Variational Quantum Simulation for Periodic Materials - [8 Pages]](https://arxiv.org/pdf/2008.09492.pdf)
-  - [Penalty methods for variational quantum eigensolver - [12 Pages]](https://arxiv.org/pdf/2010.13951.pdf)
-  - [Quadratic Clifford expansion for efficient benchmarking and initialization of variational quantum algorithms - [8 Pages]](https://arxiv.org/pdf/2011.09927.pdf)
-  - [Qulacs: a fast and versatile quantum circuit simulator for research purpose - [34 Pages]](https://arxiv.org/pdf/2011.13524.pdf)
+  - [Calculating transition amplitudes by variational quantum deflation - [12 Pages]](https://arxiv.org/abs/2002.11724)
+  - [Predicting excited states from ground state wavefunction by supervised quantum machine learning - [26 Pages]](https://arxiv.org/abs/2002.12925)
+  - [Calculating nonadiabatic couplings and Berry's phase by variational quantum eigensolvers - [19 Pages]](https://arxiv.org/abs/2003.01706)
+  - [Deep Variational Quantum Eigensolver: a divide-and-conquer method for solving a larger problem with smaller size quantum computers - [11 Pages]](https://arxiv.org/abs/2007.10917)
+  - [Variational Quantum Simulation for Periodic Materials - [8 Pages]](https://arxiv.org/abs/2008.09492)
+  - [Penalty methods for variational quantum eigensolver - [12 Pages]](https://arxiv.org/abs/2010.13951)
+  - [Quadratic Clifford expansion for efficient benchmarking and initialization of variational quantum algorithms - [8 Pages]](https://arxiv.org/abs/2011.09927)
+  - [Qulacs: a fast and versatile quantum circuit simulator for research purpose - [34 Pages]](https://arxiv.org/abs/2011.13524)
 - 2021
-  - [Deep variational quantum eigensolver for excited states and its application to quantum chemistry calculation of periodic materials - [18 Pages]](https://arxiv.org/pdf/2104.00855.pdf)
-  - [Molecular Structure Optimization based on Electrons-Nuclei Quantum Dynamics Computation - [20 Pages]](https://arxiv.org/pdf/2107.06631.pdf)
-  - [Non-normal Hamiltonian dynamics in quantum systems and its realization on quantum computers - [16 Pages]](https://arxiv.org/pdf/2107.08445.pdf)
-  - [Analytic energy gradient for state-averaged orbital-optimized variational quantum eigensolvers and its application to a photochemical reaction - [23 Pages]](https://arxiv.org/pdf/2107.12705.pdf)
-  - [Non-adiabatic Quantum Wavepacket Dynamics Simulation Based on Electronic Structure Calculations using the Variational Quantum Eigensolver - [17 Pages]](https://arxiv.org/pdf/2111.04236.pdf)
-  - [Quantum expectation value estimation by computational basis sampling - [21 Pages]](https://arxiv.org/pdf/2112.07416.pdf)
+  - [Deep variational quantum eigensolver for excited states and its application to quantum chemistry calculation of periodic materials - [18 Pages]](https://arxiv.org/abs/2104.00855)
+  - [Molecular Structure Optimization based on Electrons-Nuclei Quantum Dynamics Computation - [20 Pages]](https://arxiv.org/abs/2107.06631)
+  - [Non-normal Hamiltonian dynamics in quantum systems and its realization on quantum computers - [16 Pages]](https://arxiv.org/abs/2107.08445)
+  - [Analytic energy gradient for state-averaged orbital-optimized variational quantum eigensolvers and its application to a photochemical reaction - [23 Pages]](https://arxiv.org/abs/2107.12705)
+  - [Non-adiabatic Quantum Wavepacket Dynamics Simulation Based on Electronic Structure Calculations using the Variational Quantum Eigensolver - [17 Pages]](https://arxiv.org/abs/2111.04236)
+  - [Quantum expectation value estimation by computational basis sampling - [21 Pages]](https://arxiv.org/abs/2112.07416)
 - 2022  
-  - [Analytical formulation of the second-order derivative of energy for orbital-optimized variational quantum eigensolver: application to polarizability - [38 Pages]](https://arxiv.org/pdf/2211.03343.pdf)
+  - [Analytical formulation of the second-order derivative of energy for orbital-optimized variational quantum eigensolver: application to polarizability - [38 Pages]](https://arxiv.org/abs/2211.03343)
 
 ### [Xanadu Quantum Chemistry](https://www.xanadu.ai/research/) - **10 Quantum Chemistry Papers**
 
